@@ -1,0 +1,22 @@
+.containerRightSide{
+    padding:1em;
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    background-color: brown;
+    flex:1;
+} 
+
+.personalInformation{
+    flex:1;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    margin:0;
+}
+
+.p{
+    margin:0;
+    padding:0;
+}
